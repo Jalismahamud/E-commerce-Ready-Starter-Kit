@@ -5,3 +5,4 @@ return [
     'identifier'      => 'subdomain',
     'default_database'=> env('DB_DATABASE', 'laravel'),
 ];
+
